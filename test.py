@@ -1,2 +1,3 @@
 __version__ = 'dev'
-print("Success!")
+def hurrah():
+  print("Success!")
