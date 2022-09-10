@@ -1,1 +1,2 @@
-print("Success!")
+def hurrah():
+  print("Success!")
