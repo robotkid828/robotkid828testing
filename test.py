@@ -1,3 +1,4 @@
 __version__ = 'dev'
+from returns import returns
 def hurrah():
-  print("Success!")
+  return print("Success!")
