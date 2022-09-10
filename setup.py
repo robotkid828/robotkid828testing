@@ -1,14 +1,14 @@
 from setuptools import setup
 
-from test import __version__
+from lel import __version__
 
 setup(
-    name='test',
+    name='lel',
     version=__version__,
 
     url='https://github.com/robotkid828/robotkid828testing',
     author='robotkid828',
     author_email='',
 
-    py_modules=['test'],
+    py_modules=['lel'],
 )
